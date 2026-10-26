@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "easel-guide": {
+      "command": "node",
+      "args": [
+        "mcp-server.mjs"
+      ]
+    }
+  }
+}
